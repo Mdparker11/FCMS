@@ -1,0 +1,36 @@
+html {
+    background-color: rgb(14, 114, 228);
+ }
+
+
+h1 {
+    color: aliceblue;
+    padding-left: 850px;
+    font-family: Arial, sans-serif;
+    align-items: center;
+    font-size: 350%;
+    font-weight: 300;
+    background-color: #3980c2;
+    margin: 0;
+    display: flex;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    letter-spacing: 8px;
+    border-radius: 20px;
+    
+ }
+
+ h2 {
+   color: aliceblue;
+   padding-left: 850px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-size: x-large;
+
+
+ }
+ 
+a {
+   color: aliceblue;
+   padding-left: 850px;
+   
+
+ }
